@@ -1,0 +1,6 @@
+{
+  "name": "Romantic Confession",
+  "description": "A beautiful, interactive, romantic confession story website created with heartfelt messages, memories, and ambient animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
